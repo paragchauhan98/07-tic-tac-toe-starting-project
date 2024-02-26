@@ -8,8 +8,11 @@ Features included in the game:
 * On either win or loss, a rematch screen to quickly start another match.
 * A log of moves made by both players
 
-![image](https://github.com/paragchauhan98/tic-tac-toe-with-React/assets/40602069/f2545f8b-7719-4f6d-934c-3b96ef4145dc)
+![image](https://github.com/paragchauhan98/tic-tac-toe-with-React/assets/40602069/97559f60-4485-4783-be36-62927f3d596a)
 
-![image](https://github.com/paragchauhan98/tic-tac-toe-with-React/assets/40602069/679af74b-c66e-44fe-96d1-7888488fbfca)
+![image](https://github.com/paragchauhan98/tic-tac-toe-with-React/assets/40602069/7d9767fc-e5e3-4c2d-abcf-bcfb123f95bb)
 
-![image](https://github.com/paragchauhan98/tic-tac-toe-with-React/assets/40602069/165614ca-afbb-428e-a541-6fb590d2bf45)
+![image](https://github.com/paragchauhan98/tic-tac-toe-with-React/assets/40602069/2712d60a-aded-415e-bf6e-bec8ef34316d)
+
+
+
