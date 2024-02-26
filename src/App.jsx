@@ -1,6 +1,6 @@
 import { useState } from "react";
 import GameBoard from "./component/GameBoard";
-import Player from "./component/player";
+import Player from "./component/Player";
 import GameOver from "./component/GameOver";
 import Log from "./component/Log";
 import { WINNING_COMBINATIONS } from "./winning-combination.js";
